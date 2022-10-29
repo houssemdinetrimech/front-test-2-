@@ -13,6 +13,7 @@
     "@testing-library/react": "^11.1.1",
     "@testing-library/user-event": "^12.2.0",
     "axios": "^0.21.0",
+    "comparisons": "^3.0.1",
     "react": "^17.0.1",
     "react-autocomplete-hint": "^1.2.3",
     "react-dom": "^17.0.1",
@@ -30,7 +31,6 @@
   "scripts": {
     "start": "node client.js",
     "build": " react-scripts build",
-    
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
